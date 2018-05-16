@@ -1,0 +1,10 @@
+Package: TrepVar
+Title: Identification of variable spots in sequencing vcf data.
+Version: 1.0.0
+Authors@R: person("Vojtěch", "Bartonň", email = "xbarto80@vutbr.cz", role = c("aut", "cre"))
+Description: Functions to deal with the problem of variability identification in sequencing data of treponemal strands.
+Depends: R (>= 3.4.4), Biostrings, tidyr, stringi
+License: CC0 1.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
